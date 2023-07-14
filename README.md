@@ -1,2 +1,2 @@
 ## Jest: Testes Unitários
-Consiste em testes unitários em Node express com Jest de criação e listagem de usuários.
+Consiste em testes unitários e de integração em Node express com Jest de criação e listagem de usuários.
